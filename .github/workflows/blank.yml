@@ -15,3 +15,4 @@ jobs://try the new version
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+   new: practice
